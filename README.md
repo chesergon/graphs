@@ -13,8 +13,7 @@ An adjacency list represents a graph as a map from vertices to lists of adjacent
 Incidence Matrix
 An incidence matrix is a V x E matrix where V is the number of vertices and E is the number of edges. The entry matrix[i][j] is 1 if vertex i is incident to edge j.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
+
 
 This README provides a brief overview of graph representations. For detailed implementation, refer to the code in the repository.
 
